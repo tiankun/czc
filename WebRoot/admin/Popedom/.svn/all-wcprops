@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/java/!svn/ver/389/czc/WebRoot/admin/Popedom
+END
+edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/java/!svn/ver/9/czc/WebRoot/admin/Popedom/edit.jsp
+END
+create.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/java/!svn/ver/9/czc/WebRoot/admin/Popedom/create.jsp
+END
+form_include.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/java/!svn/ver/389/czc/WebRoot/admin/Popedom/form_include.jsp
+END
+show.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/java/!svn/ver/9/czc/WebRoot/admin/Popedom/show.jsp
+END
+list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/java/!svn/ver/9/czc/WebRoot/admin/Popedom/list.jsp
+END

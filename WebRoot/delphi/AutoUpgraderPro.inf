@@ -1,0 +1,6 @@
+#message={系统有新的升级，需要升级后才能正常试用...}
+
+#url1=http://www.ynjst.gov.cn:87/delphi/ynczghsb.exe
+
+#redirect=no
+#version=1.2.19

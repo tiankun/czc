@@ -1,0 +1,49 @@
+10
+
+dir
+1030
+https://10.0.0.91/svn/java/czc/WebRoot/village
+https://10.0.0.91/svn/java
+
+
+
+2015-04-10T03:53:00.318125Z
+639
+tiank
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a7589a77-4329-a747-bc3b-ef7bc7d73ace
+
+VillageBase
+dir
+
+VillageCr
+dir
+
+VillageHr
+dir
+
+VillageInfo
+dir
+
+VillageMode
+dir
+
+VillageProm
+dir
+
+VillageSafe
+dir
+

@@ -1,0 +1,89 @@
+@CHARSET "GBK";
+/*设置整体的字体大小*/
+*{font-size: 12px;}
+/*设置页面占据整个窗口大小*/
+html{
+   margin-top:0px;
+   margin-bottom:0px;
+   margin-right:0px;
+   margin-left:0px;  
+}
+body{
+   margin-top:0px;
+   margin-bottom:0px;
+   margin-right:0px;
+   margin-left:0px;
+/*设置背景图片*/   
+   background: ../images/water.gif;
+/*设置背景渐变  
+   filter:progid:DXImageTransform.Microsoft.gradient(startcolorstr=#0000FF,endcolorstr=#86CEFF,gradientType=0);
+*/   
+}
+/*设置主界面分割页面主题颜色*/
+.SpiltPageBody
+{
+	background-color:#6EB0FA;
+}
+/*设置表格样式*/
+table{
+border-collapse:collapse;
+border-color:#94BAE7;
+/*定义表格线条，线条，颜色样式*/
+/*border:1px dotted blue;*/
+}
+/*表格高度，字数多了自动换行*/
+td{
+/*定义虚线表格*/
+/*border:1px dotted #000000; */
+word-break:break-all;
+border-color:#94BAE7;
+}
+select{
+width: 72%;
+}
+/*定义超链接样式*/
+A:visited {color:#000000;text-decoration: none;}/*visited表示被访问后,链接颜色为灰色,链接无下划线.*/
+A:hover {BACKGROUND－COLOR: #ffccff; COLOR: #0080ff;border-bottom:1px dashed #51bfe0}/*链接文字背景色为＃ffccff;前景色为＃0080ff*/
+A:link {color:#000000;text-decoration: none}/*link表示未被访问时,链接颜色为黑色,链接无下划线.*/
+A:active {color:green;text-decoration: none}
+
+/********************用于数据列表页面***********************/
+.tHead{
+    height: 25px;
+	background-color: #308dbb;
+	color: white;
+	font-family: verdana, arial, helvetica, sans-serif;
+	font-size:12px;
+	font-weight: bold;
+	text-align: left;
+	padding-right: 3px;
+	padding-left: 3px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	margin: 0px;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-color: white;
+    text-align:center;
+}
+/*.myList tr{*/
+/*设定表格隔行换色*/
+/*<c:forEach items="${list}" var="item" varStatus="s"> 
+bgcolor="<c:if test='${s.index%2==1}'>#EFF6FE</c:if>" onMouseOut="this.style.backgroundColor=''" onMouseOver="this.style.backgroundColor='#fdecae'"
+/*background-color:expression('#EFF6FE,#FFFFFF'.split(',')[rowIndex%2]); */
+/*设置onmouseover事件*/
+/*onmouseover: expression(onmouseover=function (){this.style.borderColor ='blue';this.style.color='';this.style.backgroundColor ='#fdecae'});*/
+/*设置onmouseout事件*/
+/*onmouseout: expression(onmouseout=function (){this.style.borderColor='';this.style.color='';this.style.backgroundColor =''});*/
+/*}*/
+.myList td{
+   height: 22px;
+}
+/*********************************************************/
+
+/********************用于填写页面***********************/
+.myInputTitle{height:22px;background-color:#EFF6FE;text-align:center;font-weight: bold}
+.myInput input[type="text"]{width: 70%;}
+.myInput input[type="password"]{width: 70%;}
+.myInput input{width:expression((this.type=="text"||this.type=="password")?"70%":"")}
+/*******************************************************/

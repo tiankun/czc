@@ -1,0 +1,42 @@
+<modify-entry
+   cachable-props="svn:special svn:externals svn:needs-lock"
+   has-prop-mods="false"
+   name="upload_json.jsp"
+   has-props="false"
+   present-props=""/>
+<modify-entry
+   committed-rev="1769"
+   last-author="zousc"
+   name="upload_json.jsp"
+   uuid="a7589a77-4329-a747-bc3b-ef7bc7d73ace"
+   committed-date="2015-08-28T07:52:17.947875Z"/>
+<modify-wcprop
+   name="upload_json.jsp"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/java/!svn/ver/1769/czc/WebRoot/scripts/kindeditor/jsp/upload_json.jsp"/>
+<modify-entry
+   kind="file"
+   deleted="false"
+   absent="false"
+   name="upload_json.jsp"
+   revision="1769"
+   working-size="-1"
+   text-time="1970-01-01T00:00:00.000000Z"
+   url="https://10.0.0.91/svn/java/czc/WebRoot/scripts/kindeditor/jsp/upload_json.jsp"/>
+<cp-and-translate
+   dest="upload_json.jsp"
+   name=".svn/tmp/text-base/upload_json.jsp.svn-base"/>
+<mv
+   dest=".svn/text-base/upload_json.jsp.svn-base"
+   name=".svn/tmp/text-base/upload_json.jsp.svn-base"/>
+<readonly
+   name=".svn/text-base/upload_json.jsp.svn-base"/>
+<modify-entry
+   checksum="0cb046102f27c53daf9f91d6d2adf5b1"
+   name="upload_json.jsp"/>
+<modify-entry
+   name="upload_json.jsp"
+   text-time="working"/>
+<modify-entry
+   name="upload_json.jsp"
+   working-size="working"/>

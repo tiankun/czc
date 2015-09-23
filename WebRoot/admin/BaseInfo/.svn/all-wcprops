@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/java/!svn/ver/9/czc/WebRoot/admin/BaseInfo
+END
+edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/java/!svn/ver/9/czc/WebRoot/admin/BaseInfo/edit.jsp
+END
+create.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/java/!svn/ver/9/czc/WebRoot/admin/BaseInfo/create.jsp
+END
+form_include.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/java/!svn/ver/9/czc/WebRoot/admin/BaseInfo/form_include.jsp
+END
+show.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/java/!svn/ver/9/czc/WebRoot/admin/BaseInfo/show.jsp
+END
+list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/java/!svn/ver/9/czc/WebRoot/admin/BaseInfo/list.jsp
+END

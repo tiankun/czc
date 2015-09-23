@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/java/!svn/ver/9/czc/WebRoot/item/NitemYue
+END
+edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/java/!svn/ver/9/czc/WebRoot/item/NitemYue/edit.jsp
+END
+create.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/java/!svn/ver/9/czc/WebRoot/item/NitemYue/create.jsp
+END
+form_include.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/java/!svn/ver/9/czc/WebRoot/item/NitemYue/form_include.jsp
+END
+show.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/java/!svn/ver/9/czc/WebRoot/item/NitemYue/show.jsp
+END
+list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/java/!svn/ver/9/czc/WebRoot/item/NitemYue/list.jsp
+END
+yueListWater.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/java/!svn/ver/9/czc/WebRoot/item/NitemYue/yueListWater.jsp
+END
+yueListSewage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/java/!svn/ver/9/czc/WebRoot/item/NitemYue/yueListSewage.jsp
+END
+yueListRubbish.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/java/!svn/ver/9/czc/WebRoot/item/NitemYue/yueListRubbish.jsp
+END

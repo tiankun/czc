@@ -1,0 +1,42 @@
+BODY
+{
+	FONT-FAMILY: "ËÎÌו";
+	FONT-SIZE: 12pt;
+	text-decoration: none;
+	line-height: 150%;
+	background-color: #FBFDFF;
+}
+TD
+{
+	FONT-FAMILY: "ËÎÌו";
+	FONT-SIZE: 9pt;
+}
+A
+{
+	TEXT-DECORATION: none;
+	color: #000000;
+
+}
+A:hover
+{
+	COLOR: #428EFF;
+	text-decoration: underline;
+
+}
+.border
+{
+	border: 1px solid #035DB8;
+}
+.tdbg{
+	background:#F4f4f4;
+	line-height: 120%;
+}
+.topbg
+{
+	background-color: #035DB8;
+	color: #FFFFFF;
+
+}
+.bgcolor {
+	background-color: #9966FF;
+}

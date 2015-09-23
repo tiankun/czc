@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/java/!svn/ver/643/czc/src/com/zsc/web/village
+END
+Village_modeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/java/!svn/ver/638/czc/src/com/zsc/web/village/Village_modeAction.java
+END
+Village_baseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/java/!svn/ver/638/czc/src/com/zsc/web/village/Village_baseAction.java
+END
+Village_promAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/java/!svn/ver/542/czc/src/com/zsc/web/village/Village_promAction.java
+END
+Village_crAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/java/!svn/ver/638/czc/src/com/zsc/web/village/Village_crAction.java
+END
+Village_infoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/java/!svn/ver/643/czc/src/com/zsc/web/village/Village_infoAction.java
+END
+Village_safeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/java/!svn/ver/638/czc/src/com/zsc/web/village/Village_safeAction.java
+END
+Village_hrAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/java/!svn/ver/638/czc/src/com/zsc/web/village/Village_hrAction.java
+END
